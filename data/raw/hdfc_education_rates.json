@@ -1,0 +1,33 @@
+{
+  "bank": "HDFC Bank",
+  "source_url": "https://www.hdfc.bank.in/education-loan/interest-rates-and-charges",
+  "scraped_at": "2026-09-02T10:58:41.163347",
+  "rates": [
+    {
+      "scheme": "Education Loan Fees and Charges",
+      "category": "Starting Rate",
+      "rate": "10.50%"
+    },
+    {
+      "scheme": "Education Loan Fees and Charges",
+      "category": "Interest Rate",
+      "rate": "1%"
+    },
+    {
+      "scheme": "Education Loan Fees and Charges",
+      "category": "Interest Rate",
+      "rate": "9.30%"
+    },
+    {
+      "scheme": "Education Loan Fees and Charges",
+      "category": "Interest Rate",
+      "rate": "9.39%"
+    }
+  ],
+  "interest_rate": 7.55,
+  "rates_found": [
+    7.55
+  ],
+  "last_updated": "2026-09-13 08:26:27",
+  "source": "HDFC (Default)"
+}

@@ -1,0 +1,51 @@
+{
+    "bank": "Bank of Baroda",
+    "bank_type": "Public Sector",
+    "schemes": [
+        {
+            "scheme_name": "Baroda Scholar (Top IIMs/IITs)",
+            "interest_rate": 6.85,
+            "rate_type": "Floating",
+            "max_loan_amount": 4000000,
+            "collateral_required": "No (up to 7.5L)",
+            "processing_fee_percent": 1.0,
+            "processing_fee_note": "1% of loan amount",
+            "moratorium_months": 12,
+            "best_for": "Top 10 IIMs & IITs",
+            "study_destination": "India",
+            "source_url": "https://bankofbaroda.bank.in/loans/education-loan/baroda-education-loan-to-students-of-premier-institutions",
+            "source_type": "Official Bank Website",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "Baroda Gyan (AA Category)",
+            "interest_rate": 7.20,
+            "rate_type": "Floating",
+            "max_loan_amount": 3000000,
+            "collateral_required": "No (up to 7.5L)",
+            "processing_fee_percent": 1.0,
+            "processing_fee_note": "1% of loan amount",
+            "moratorium_months": 12,
+            "best_for": "AA Category Institutions",
+            "study_destination": "India",
+            "source_url": "https://bankofbaroda.bank.in/loans/education-loan/baroda-education-loan-to-students-of-premier-institutions",
+            "source_type": "Official Bank Website",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "Baroda Education Loan (General)",
+            "interest_rate": 8.55,
+            "rate_type": "Floating",
+            "max_loan_amount": 15000000,
+            "collateral_required": "Yes",
+            "processing_fee_percent": 1.0,
+            "processing_fee_note": "1% of loan amount",
+            "moratorium_months": 12,
+            "best_for": "General Students",
+            "study_destination": "India",
+            "source_url": "https://bankofbaroda.bank.in/loans/education-loan",
+            "source_type": "Official Bank Website",
+            "date_collected": "2026-09-13"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "bank": "HDFC Bank",
+    "bank_type": "Private Sector",
+    "schemes": [
+        {
+            "scheme_name": "HDFC Education Loan (Domestic)",
+            "interest_rate": 10.50,
+            "rate_type": "Floating",
+            "max_loan_amount": 7500000,
+            "collateral_required": "No (up to 7.5L)",
+            "processing_fee_percent": 0,
+            "processing_fee_note": "Nil up to 7.5L; 1% above 7.5L",
+            "moratorium_months": 12,
+            "best_for": "Domestic Students",
+            "study_destination": "India",
+            "source_url": "https://www.hdfc.bank.in/education-loan/interest-rates-and-charges",
+            "source_type": "Official Bank Website",
+            "date_collected": "2026-09-13"
+        }
+    ]
+}

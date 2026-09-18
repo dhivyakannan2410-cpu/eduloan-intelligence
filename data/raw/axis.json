@@ -1,0 +1,36 @@
+{
+    "bank": "Axis Bank",
+    "bank_type": "Private Sector",
+    "schemes": [
+        {
+            "scheme_name": "Axis Education Loan (Domestic Secured)",
+            "interest_rate": 7.45,
+            "rate_type": "Floating",
+            "max_loan_amount": 7500000,
+            "collateral_required": "Yes",
+            "processing_fee_percent": 2.0,
+            "processing_fee_note": "2% of loan + GST",
+            "moratorium_months": 12,
+            "best_for": "Secured Loans with Collateral",
+            "study_destination": "India",
+            "source_url": "https://www.axis.bank.in/loans/education-loan/interest-rates-charges",
+            "source_type": "Third-Party Aggregator (BankBazaar)",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "Axis Education Loan (Abroad Unsecured)",
+            "interest_rate": 10.81,
+            "rate_type": "Floating",
+            "max_loan_amount": 7500000,
+            "collateral_required": "No (up to 40L)",
+            "processing_fee_percent": 2.0,
+            "processing_fee_note": "2% of loan + GST",
+            "moratorium_months": 12,
+            "best_for": "Students going Abroad",
+            "study_destination": "Abroad",
+            "source_url": "https://ndtv.in/business-news/education-loan-interest-rates-compared-pnb-offers-cheapest-student-loan-check-sbi-canara-union-and-axis-bank-rates-11647734",
+            "source_type": "News Article (NDTV)",
+            "date_collected": "2026-09-13"
+        }
+    ]
+}

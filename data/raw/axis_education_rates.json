@@ -1,0 +1,33 @@
+{
+  "bank": "Axis Bank",
+  "source_url": "https://www.axisbank.com/education-loan",
+  "scraped_at": "2026-09-02T11:12:15.574951",
+  "rates": [
+    {
+      "scheme": "Education Loan",
+      "category": "Loan Processing Charges",
+      "rate": "Processing fees up to 2% of the loan amount + GSTW.E.F 1st August, 2022Goods and Services Tax (GST) will be charged extra as per the applicable rates, on all the charges and fees (wherever GST is applicable)."
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "Penal Charge",
+      "rate": "8% p.a. on the overdue amount (subject to aggregate penal charges not exceeding \u00e2\u201a\u00b91,00,000 (INR One lakh) or minimum of \u00e2\u201a\u00b9300 (INR Three hundred) whichever is higher per instance)There shall be no capitalization of Penal ChargesIn addition to the penal charge, the borrower will be required to pay the regular interest on overdue EMI / overdue interest/overdue principal\u00c2\u00a0which would be charged at contracted or applicable interest rate for the days it remains overdue"
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "Duplicate Interest Certificate (Provisional/Actual) Issuance Charges",
+      "rate": "\u00e2\u201a\u00b950/- + GST per instance"
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "Conversion charges for switching from Floating to Fixed and Vice-versa",
+      "rate": "1% of the outstanding principal with a minimum of \u00e2\u201a\u00b9\r\n                                5000/- + applicable GST"
+    }
+  ],
+  "interest_rate": 8.5,
+  "rates_found": [
+    8.5
+  ],
+  "last_updated": "2026-09-13 08:26:18",
+  "source": "Axis Bank (Default)"
+}

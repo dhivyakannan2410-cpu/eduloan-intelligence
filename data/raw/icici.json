@@ -1,0 +1,51 @@
+{
+    "bank": "ICICI Bank",
+    "bank_type": "Private Sector",
+    "schemes": [
+        {
+            "scheme_name": "ICICI Secured Education Loan (Domestic Premier)",
+            "interest_rate": 8.50,
+            "rate_type": "Floating",
+            "max_loan_amount": 10000000,
+            "collateral_required": "Yes",
+            "processing_fee_percent": 1.5,
+            "processing_fee_note": "Varies by loan amount",
+            "moratorium_months": 12,
+            "best_for": "Select Domestic Institutes (Secured)",
+            "study_destination": "India",
+            "source_url": "https://www.icicibank.com/personal-banking/loans/education-loan/interest-rates",
+            "source_type": "Official Bank Website",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "ICICI Secured Education Loan (Abroad)",
+            "interest_rate": 9.00,
+            "rate_type": "Floating",
+            "max_loan_amount": 30000000,
+            "collateral_required": "Yes",
+            "processing_fee_percent": 1.5,
+            "processing_fee_note": "Varies by loan amount",
+            "moratorium_months": 12,
+            "best_for": "Abroad Studies (Secured)",
+            "study_destination": "Abroad",
+            "source_url": "https://www.icicibank.com/personal-banking/loans/education-loan/interest-rates",
+            "source_type": "Official Bank Website",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "ICICI Unsecured Education Loan (Abroad)",
+            "interest_rate": 10.25,
+            "rate_type": "Floating",
+            "max_loan_amount": 5000000,
+            "collateral_required": "No",
+            "processing_fee_percent": 1.5,
+            "processing_fee_note": "Varies by loan amount",
+            "moratorium_months": 12,
+            "best_for": "Abroad Studies (No Collateral)",
+            "study_destination": "Abroad",
+            "source_url": "https://www.icicibank.com/personal-banking/loans/education-loan/interest-rates",
+            "source_type": "Official Bank Website",
+            "date_collected": "2026-09-13"
+        }
+    ]
+}

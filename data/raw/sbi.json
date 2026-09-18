@@ -1,0 +1,66 @@
+{
+    "bank": "SBI",
+    "bank_type": "Public Sector",
+    "schemes": [
+        {
+            "scheme_name": "SBI Scholar Loan (IIMs/IITs)",
+            "interest_rate": 7.05,
+            "rate_type": "Floating",
+            "max_loan_amount": 5000000,
+            "collateral_required": "No (up to 7.5L)",
+            "processing_fee_percent": 0,
+            "processing_fee_note": "Nil for premier institutes",
+            "moratorium_months": 12,
+            "best_for": "Top 10 IIMs & IITs",
+            "study_destination": "India",
+            "source_url": "https://www.fincash.com/l/loan/sbi-scholar-loan",
+            "source_type": "Third-Party Aggregator (Fincash)",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "SBI Global Ed-Vantage (Abroad)",
+            "interest_rate": 8.65,
+            "rate_type": "Floating",
+            "max_loan_amount": 15000000,
+            "collateral_required": "Yes",
+            "processing_fee_percent": 0.5,
+            "processing_fee_note": "0.05% of loan + GST",
+            "moratorium_months": 6,
+            "best_for": "Students going Abroad (Female)",
+            "study_destination": "Abroad",
+            "source_url": "https://www.gyandhan.com/sbi-education-loan",
+            "source_type": "Third-Party Aggregator (GyanDhan)",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "SBI Global Ed-Vantage (Abroad)",
+            "interest_rate": 9.15,
+            "rate_type": "Floating",
+            "max_loan_amount": 15000000,
+            "collateral_required": "Yes",
+            "processing_fee_percent": 0.5,
+            "processing_fee_note": "0.05% of loan + GST",
+            "moratorium_months": 6,
+            "best_for": "Students going Abroad (Male)",
+            "study_destination": "Abroad",
+            "source_url": "https://www.gyandhan.com/sbi-education-loan",
+            "source_type": "Third-Party Aggregator (GyanDhan)",
+            "date_collected": "2026-09-13"
+        },
+        {
+            "scheme_name": "PM-Vidyalaxmi Scheme (PMVL-Utkarsh)",
+            "interest_rate": 6.90,
+            "rate_type": "Floating",
+            "max_loan_amount": 1000000,
+            "collateral_required": "No",
+            "processing_fee_percent": 0,
+            "processing_fee_note": "Government Scheme",
+            "moratorium_months": 12,
+            "best_for": "Meritorious Students (EWS)",
+            "study_destination": "India",
+            "source_url": "https://ndtv.bankbazaar.com/sbi-education-loan.html",
+            "source_type": "Third-Party Aggregator (BankBazaar)",
+            "date_collected": "2026-09-13"
+        }
+    ]
+}

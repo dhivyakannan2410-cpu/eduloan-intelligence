@@ -1,0 +1,113 @@
+{
+  "bank": "ICICI Bank",
+  "source_url": "https://www.icicibank.com/personal-banking/loans/education-loan",
+  "scraped_at": "2026-09-02T11:03:20.040503",
+  "rates": [
+    {
+      "scheme": "Education Loan Interest Rates",
+      "category": "Interest Rate",
+      "rate": "9.00%"
+    },
+    {
+      "scheme": "Education Loan Interest Rates",
+      "category": "Interest Rate",
+      "rate": "10.25%"
+    },
+    {
+      "scheme": "Engineering and Management Courses",
+      "category": "Domestic Study",
+      "rate": "8.50%"
+    },
+    {
+      "scheme": "Engineering and Management Courses",
+      "category": "Domestic Study",
+      "rate": "9.25%"
+    },
+    {
+      "scheme": "Engineering and Management Courses",
+      "category": "Interest Rate",
+      "rate": "9.00%"
+    },
+    {
+      "scheme": "Engineering and Management Courses",
+      "category": "Interest Rate",
+      "rate": "9.75%"
+    },
+    {
+      "scheme": "Medical Courses",
+      "category": "Interest Rate",
+      "rate": "8.75%"
+    },
+    {
+      "scheme": "Medical Courses",
+      "category": "Interest Rate",
+      "rate": "9.50%"
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "I-Group Employees",
+      "rate": "9.00%"
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "I-Group Employees",
+      "rate": "10.00%"
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "Interest Rate",
+      "rate": "8.99%"
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "Interest Rate",
+      "rate": "9.99%"
+    },
+    {
+      "scheme": "Education Loan Interest Rate Range (Period: Q3-Q4-FY-26)",
+      "category": "Interest Rate",
+      "rate": "8.5%"
+    },
+    {
+      "scheme": "Education Loan Interest Rate Range (Period: Q3-Q4-FY-26)",
+      "category": "Interest Rate",
+      "rate": "13.00%"
+    },
+    {
+      "scheme": "Education Loan Interest Rate Range (Period: Q3-Q4-FY-26)",
+      "category": "Interest Rate",
+      "rate": "10.53%"
+    },
+    {
+      "scheme": "Education Loan Interest Rate under Government Subsidy Scheme",
+      "category": "CGFSEL",
+      "rate": "10.95%"
+    },
+    {
+      "scheme": "Education Loan Interest Rate under Government Subsidy Scheme",
+      "category": "PMVidyalaxmi Scheme",
+      "rate": "9.45%"
+    },
+    {
+      "scheme": "Fees and Service Charges for Education Loan",
+      "category": "Interest Rate",
+      "rate": "2%"
+    },
+    {
+      "scheme": "Fees and Service Charges for Education Loan",
+      "category": "Minimum Rate",
+      "rate": "0.25%"
+    },
+    {
+      "scheme": "Fees and Service Charges for Education Loan",
+      "category": "Interest Rate",
+      "rate": "5%"
+    }
+  ],
+  "interest_rate": 8.58,
+  "rates_found": [
+    8.58
+  ],
+  "last_updated": "2026-09-13 08:26:31",
+  "source": "ICICI (Default)"
+}

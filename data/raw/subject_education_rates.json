@@ -1,0 +1,10 @@
+{
+    "bank": "SBI",
+    "scheme": "Education Loan",
+    "category": "Education",
+    "rate": "8.00",
+    "source_file": "manual",
+    "scraped_date": "2026-09-04",
+    "rate_value": 8.00,
+    "bank_short": "SBI"
+}

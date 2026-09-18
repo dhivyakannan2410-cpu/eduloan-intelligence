@@ -1,0 +1,25 @@
+{
+  "bank": "Bank of Baroda",
+  "source_url": "https://www.bankofbaroda.in/personal-banking/loans/education-loan",
+  "scraped_at": "2026-09-02T11:14:58.659512",
+  "rates": [
+    {
+      "scheme": "Education Loan",
+      "category": "Starting Rate",
+      "rate": "6.85%"
+    },
+    {
+      "scheme": "Education Loan",
+      "category": "BRLLR Spread",
+      "rate": "BRLLR + 1.75%"
+    }
+  ],
+  "interest_rate": 8.95,
+  "rates_found": [
+    6.85,
+    5.0,
+    15.0
+  ],
+  "last_updated": "2026-09-13 08:26:23",
+  "source": "BOB Website"
+}
